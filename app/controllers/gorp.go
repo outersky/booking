@@ -9,7 +9,7 @@ import (
 	// _ "github.com/mattn/go-sqlite3"
 	r "github.com/robfig/revel"
 	"github.com/robfig/revel/modules/db/app"
-	"github.com/robfig/revel/samples/booking/app/models"
+	"github.com/outersky/booking/app/models"
 )
 
 var (
